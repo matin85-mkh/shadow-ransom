@@ -15,7 +15,7 @@ I will add some update on this repository
 
 ## things that i want to add.
 - [] add ui.
-- [] add more thing to the cide.
+- [] add more thing to the code.
 - [] add 
 
 till now just this :). 
