@@ -6,10 +6,6 @@ I will add some update on this repository
   <a href="http://python.org">
     <img src="https://img.shields.io/badge/python-v3.8-blue">
   </a>
-  <a href="https://php.net">
-    <img src="https://img.shields.io/badge/php-7.4.4-green"
-         alt="php">
-  </a>
 
   <a href="https://www.microsoft.com/de-de/">
     <img src="https://img.shields.io/badge/platform-Windows 10 | 8.1-red">
