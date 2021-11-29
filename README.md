@@ -2,6 +2,8 @@
 This is a ransomware that I wrote. It is my first malware, infact this is my first project on github.
 I will add some update on this repository
 
+![a picture of ransomware]("https://pasteboard.co/nydeGQ0wLL1h.jpg")
+
 <h1 align="center">
   <br>
   <a <img src="https://pasteboard.co/nydeGQ0wLL1h.jpg"></a>
