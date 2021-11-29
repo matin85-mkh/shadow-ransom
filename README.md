@@ -2,6 +2,12 @@
 This is a ransomware that I wrote. It is my first malware, infact this is my first project on github.
 I will add some update on this repository
 
+<h1 align="center">
+  <br>
+  <a <img src="https://pasteboard.co/nydeGQ0wLL1h.jpg"></a>
+
+</h1>
+
 <p align="center">
   <a href="http://python.org">
     <img src="https://img.shields.io/badge/python-v3.8-blue">
@@ -18,4 +24,7 @@ I will add some update on this repository
 - [] add more thing to the code.
 - [] add 
 
+
+## ransomware feature
+-
 till now just this :). 
