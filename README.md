@@ -23,11 +23,11 @@ I will add some update on this repository</h3>
 
 
 ## things that i want to add.
-- [] add ui.
-- [] add more thing to the code.
-- [] add 
+- [] Add ui.
+- [] Add more thing to the code.
+- [] Make text colorful 
 
 
 ## ransomware feature
--
+- Encrypt files
 till now just this :). 
