@@ -3,7 +3,7 @@
 <h3>This is a ransomware that I wrote. It is my first malware, in fact this is my first project on github.
 I will add some update on this repository</h3>
 
-<h2>this is a code in python, this is my first python malware code in github</h2>
+<h2>This is a code in python, this is my first python malware code in github</h2>
 
 <h1 align="center">
   <br>
